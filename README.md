@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![pdXSKpK](https://github.com/user-attachments/assets/5f9fc0c6-de4a-4c25-af4b-aca5538e26a7)
+
+
 <!--
 **iBabity/iBabity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
