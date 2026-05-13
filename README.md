@@ -1,4 +1,4 @@
-```md
+
 # Hi there 👋 I'm Eder
 
 <img width="220" height="165" alt="kabuto-yakushi-naruto gif" src="https://github.com/user-attachments/assets/69b47a36-1673-4f41-9937-9380aaea6559" />
@@ -61,4 +61,4 @@ I also enjoy building desktop applications with Flutter and creating automation 
 - 🧠 Always learning new things
 
 ---
-```
+
