@@ -1,11 +1,13 @@
 ```md
-# Hi there 👋 I'm Eder Cipriano
+# Hi there 👋 I'm Eder
 
-![pdXSKpK](https://github.com/user-attachments/assets/5f9fc0c6-de4a-4c25-af4b-aca5538e26a7)
+<img width="220" height="165" alt="kabuto-yakushi-naruto gif" src="https://github.com/user-attachments/assets/69b47a36-1673-4f41-9937-9380aaea6559" />
+
+---
 
 ## 🚀 About Me
 
-I'm an IT professional and Systems Analyst passionate about technology, automation, development, and problem solving.
+💻 IT Professional & Systems Analyst passionate about technology, automation, development, and problem solving.
 
 Currently working with:
 
@@ -17,13 +19,13 @@ Currently working with:
 - 🤖 AI & Automation
 - 🎯 Client Training and Support
 
-I also enjoy creating desktop applications with Flutter and developing automation tools using Python.
+I also enjoy building desktop applications with Flutter and creating automation tools using Python.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+### 💡 Languages
 - Python
 - JavaScript
 - Dart
@@ -31,7 +33,7 @@ I also enjoy creating desktop applications with Flutter and developing automatio
 - HTML/CSS
 - C
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Technologies
 - Flutter
 - Node.js
 - Git & GitHub
@@ -46,17 +48,17 @@ I also enjoy creating desktop applications with Flutter and developing automatio
 
 - Advanced Flutter
 - AI Integrations
-- Automation Systems
 - Backend Development
 - Software Architecture
+- Automation Systems
 
 ---
 
-## 🌎 Connect with Me
+## 🌎 Connect With Me
 
 - 💼 Systems Analyst
-- 🧠 Technology Enthusiast
-- 🚀 Always learning new things
+- 🚀 Technology Enthusiast
+- 🧠 Always learning new things
 
 ---
 ```
